@@ -3,6 +3,7 @@ redis-client
 
 *Redis client for TeaJS*
 
+--
 
 var Redis = require('redis').Redis; 
 
