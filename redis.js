@@ -1,6 +1,6 @@
 /*
 
-redis.js v0.2: Simple Redis client
+redis.js v0.2: Simple Redis client 
 
 Copyright (c) 2012-2020 Tamer Rizk, Inficron Inc.
 
